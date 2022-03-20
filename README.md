@@ -4,7 +4,7 @@
 ### I am Weylane Dutra
 
 <ul>
-  <li> 💻 I work as an Insight Analyst at Data Insight, New Zealand.
+  <li> 💻 I work as Insight Analyst at Data Insight, New Zealand.
   <li> 🚀 I'm a Tech lover and I love learning new things!
 </ul>
 
