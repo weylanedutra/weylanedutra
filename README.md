@@ -8,7 +8,7 @@
 
 - 💻 I work as Insight Analyst at Data Insight.
 - 📍 I live in Auckland, New Zealand.
-- 🚀 I'm a Tech lover and I love learning new things!
+- 🚀 I'm a curious person, a tech enthusiastic and I love learning new things!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weylanedutra//)](https://www.linkedin.com/in/weylanedutra/)
 
