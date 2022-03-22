@@ -53,6 +53,21 @@
 #### 📖 Learning:
 
 ![R](https://img.shields.io/badge/-R-black?style=plastic&logo=R)
+
+##
   
+## ⚙️ **Main Repositories:**
+
+<div align="center">
+<a href="https://github.com/weylanedutra/Data_Science">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=weylanedutra&repo=Data_Science&theme=radical" />
+<a href="https://github.com/weylanedutra/SQL">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=weylanedutra&repo=SQL&theme=radical" />
+</div>  
+
+##
+
 ![Snake animation](https://github.com/weylanedutra/weylanedutra/blob/output/github-contribution-grid-snake.svg)
+ 
+
  
