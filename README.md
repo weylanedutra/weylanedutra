@@ -11,6 +11,9 @@
 - 🚀 I'm a curious person, a tech enthusiastic and I love learning new things!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weylanedutra//)](https://www.linkedin.com/in/weylanedutra/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@weylanedutra)](https://medium.com/@weylanedutra)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=weylanemd@gmail.com)](weylanemd@gmail.com)
+[![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white))
 
 ##
 
