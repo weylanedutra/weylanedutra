@@ -53,9 +53,7 @@
 #### 📖 Learning:
 
 ![R](https://img.shields.io/badge/-R-black?style=plastic&logo=R)
-
-##
-  
+ 
 ## ⚙️ **Main Repositories:**
 
 <div align="center">
