@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my world!
 
-### I am Weylane Dutra
+### I am Weylane Dutra.
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Wey-doll" height="120" style="border-radius:50px;" src="https://raw.githubusercontent.com/weylanedutra/weylanedutra/main/resources/Wey-doll.gif?width=600&height=600">
