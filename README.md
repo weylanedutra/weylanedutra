@@ -52,9 +52,6 @@
 
 ![R](https://img.shields.io/badge/-R-black?style=plastic&logo=R)
 
-##
- 
-![Snake animation](https://github.com/weylanedutra/weylanedutra/blob/output/github-contribution-grid-snake.svg)
  
 
  
