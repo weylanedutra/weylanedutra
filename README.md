@@ -6,7 +6,7 @@
   <img align="right" alt="Wey-doll" height="120" style="border-radius:50px;" src="https://raw.githubusercontent.com/weylanedutra/weylanedutra/main/resources/Wey-doll.gif?width=600&height=600">
 </div>
 
-- 💻 I work as Commercial Analytics Lead at CEVA Logistics.
+- 💻 I work as Commercial Analytics Lead at Mercury NZ.
 - 📍 I live in Auckland, New Zealand.
 - 📲 I'm a curious person, a tech enthusiastic and I love learning new things!
 
